@@ -1,0 +1,12 @@
+.contact__form-container {
+    width: 540px;
+    & > form {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        & .contact__form-actions {
+            width: 100%;
+        }
+    }
+}

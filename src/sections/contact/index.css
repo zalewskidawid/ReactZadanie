@@ -1,0 +1,19 @@
+.contact {
+	height: auto;
+	padding: 9rem 0;
+
+	& .container {
+		max-width: 111rem;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	& .content {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: flex-start;
+    	width: 100%;
+	}
+}

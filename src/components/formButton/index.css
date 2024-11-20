@@ -1,0 +1,14 @@
+.form-submit__btn {
+    font-size: 14px;
+    line-height: 16.8px;
+    color:#fff;
+    background-color: #ED4C5C;
+    border-radius: 6px;
+    border: 0;
+    padding: 14px 30px;
+    font-weight: 400;
+    width: 160px;
+    height:50px;
+    cursor: pointer;
+    border: 4px solid #ED4C5C;
+}

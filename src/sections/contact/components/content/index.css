@@ -1,0 +1,13 @@
+.contact__text-container {
+    max-width: 445px;
+  & > p {
+      font-size: 14px;
+      line-height: 19.6px;
+      word-spacing: 3px;
+  }
+  & > h2 {
+      font-size: 36px;
+      line-height: 43.2px;
+      margin-bottom: 52px;
+  }
+}
